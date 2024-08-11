@@ -5,5 +5,8 @@ phase0: install libraries in Python, learn how to parse data, find suitable data
 
 Commands
 * pip
-python3 -m pip list
-python3 -m pip install pandas
+
+Command | Comments
+--- | --- 
+`python3 -m pip list` | List all packages installed using pip
+`python3 -m pip install <package>` | Install `<package>` using pip
