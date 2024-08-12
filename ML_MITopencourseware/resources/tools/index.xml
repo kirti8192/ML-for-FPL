@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on MIT OpenCourseWare</title>
+    <link>/resources/tools/</link>
+    <description>Recent content in Tools on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>files.m</title>
+      <link>/resources/files/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/files/data.json</guid>
+      <description>Sample MATLAB? script.</description>
+    </item>
+    
+    <item>
+      <title>matrix.m</title>
+      <link>/resources/matrix/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/matrix/data.json</guid>
+      <description>Sample MATLAB? script.</description>
+    </item>
+    
+    <item>
+      <title>plot.m</title>
+      <link>/resources/plot/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/plot/data.json</guid>
+      <description>Sample MATLAB? script.</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/pages/tools/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tools/data.json</guid>
+      <description>MATLAB® MATLAB® is a computational environment (language and tools) designed primarily for numerical computation and manipulation. It is very useful for running Machine Learning experiments, and we will be using it as the primary programming environment for this course. You do not need any deep knowledge of MATLAB® to complete the assignments but it will be necessary to learn some basics.
+MIT Information Services and Technology also provides some useful tips for a beginning MATLAB® user on MIT&amp;rsquo;s server.</description>
+    </item>
+    
+  </channel>
+</rss>

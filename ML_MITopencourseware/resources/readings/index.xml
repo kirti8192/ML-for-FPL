@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lagrange.pdf</title>
+      <link>/resources/lagrange/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lagrange/data.json</guid>
+      <description>Short tutorial on Lagrange multipliers.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>LEC # TOPICS READINGS 1 Introduction, linear classification, perceptron update rule 2 Perceptron convergence, generalization 3 Maximum margin classification Optional Cristianini, Nello, and John Shawe-Taylor. An Introduction to Support Vector Machines and Other Kernel-based Learning Methods. Cambridge, UK: Cambridge University Press, 2000. ISBN: 9780521780193.
+Burges, Christopher. &amp;ldquo;A Tutorial on Support Vector Machines for Pattern Recognition.&amp;rdquo; Data Mining and Knowledge Discovery 2, no. 2 (June 1998): 121-167.
+4 Classification errors, regularization, logistic regression 5 Linear regression, estimator bias and variance, active learning 6 Active learning (cont.</description>
+    </item>
+    
+  </channel>
+</rss>

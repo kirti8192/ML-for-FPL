@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lec1.pdf</title>
+      <link>/resources/lec1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1/data.json</guid>
+      <description>Lecture notes with an introduction to machine learning and discussion of linear classification and the perceptron update rule.</description>
+    </item>
+    
+    <item>
+      <title>lec10.pdf</title>
+      <link>/resources/lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10/data.json</guid>
+      <description>Lecture notes on model selection criteria, structural risk minimization, example derivation, Bayesian score, and Bayesian Information Criterion (BIC).</description>
+    </item>
+    
+    <item>
+      <title>lec11.pdf</title>
+      <link>/resources/lec11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11/data.json</guid>
+      <description>Lecture notes on model selection criteria, minimum description length (MDL), and feature (subset) selection.</description>
+    </item>
+    
+    <item>
+      <title>lec12.pdf</title>
+      <link>/resources/lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12/data.json</guid>
+      <description>Lecture notes on model selection criteria, feature subset selection, information criterion, conditional log-likelihood and description length, regularization, combination of classifiers, and boosting.</description>
+    </item>
+    
+    <item>
+      <title>lec13.pdf</title>
+      <link>/resources/lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec13/data.json</guid>
+      <description>This resource explains about boosting, margin, gradient descent, complexity of classifiers, and generalization.</description>
+    </item>
+    
+    <item>
+      <title>lec14.pdf</title>
+      <link>/resources/lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14/data.json</guid>
+      <description>Lecture notes on margin and generalization, linear classifiers, ensembles, and mixture models.</description>
+    </item>
+    
+    <item>
+      <title>lec15.pdf</title>
+      <link>/resources/lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec15/data.json</guid>
+      <description>Lecture notes on different types of mixture models, estimating mixtures, and the EM algorithm.</description>
+    </item>
+    
+    <item>
+      <title>lec16.pdf</title>
+      <link>/resources/lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec16/data.json</guid>
+      <description>Lecture notes on mixture of Gaussians, the EM algorithm, additional mixture topics, regularization, stage-wise mixtures, conditional mixtures, and mixture models and clustering.</description>
+    </item>
+    
+    <item>
+      <title>lec17.pdf</title>
+      <link>/resources/lec17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec17/data.json</guid>
+      <description>Lecture notes on mixture models and clustering, k-means, and distance and clustering.</description>
+    </item>
+    
+    <item>
+      <title>lec18.pdf</title>
+      <link>/resources/lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec18/data.json</guid>
+      <description>Lecture notes on spectral clustering, random walks, and Markov chains.</description>
+    </item>
+    
+    <item>
+      <title>lec19.pdf</title>
+      <link>/resources/lec19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19/data.json</guid>
+      <description>Lecture notes on Markov chains and hidden Markov models.</description>
+    </item>
+    
+    <item>
+      <title>lec2.pdf</title>
+      <link>/resources/lec2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec2/data.json</guid>
+      <description>Lecture notes on perceptron, convergence, and generalization.</description>
+    </item>
+    
+    <item>
+      <title>lec20.pdf</title>
+      <link>/resources/lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec20/data.json</guid>
+      <description>Lecture notes on hidden Markov models.</description>
+    </item>
+    
+    <item>
+      <title>lec21.pdf</title>
+      <link>/resources/lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21/data.json</guid>
+      <description>Lecture notes on Bayesian networks.</description>
+    </item>
+    
+    <item>
+      <title>lec22.pdf</title>
+      <link>/resources/lec22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec22/data.json</guid>
+      <description>Lecture notes on learning Bayesian networks, maximum likelihood, BIC, and marginal likelihood.</description>
+    </item>
+    
+    <item>
+      <title>lec23.pdf</title>
+      <link>/resources/lec23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec23/data.json</guid>
+      <description>Lecture notes on Markov random fields and probabilistic inference.</description>
+    </item>
+    
+    <item>
+      <title>lec3.pdf</title>
+      <link>/resources/lec3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec3/data.json</guid>
+      <description>Lecture notes on the support vector machine.</description>
+    </item>
+    
+    <item>
+      <title>lec4.pdf</title>
+      <link>/resources/lec4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec4/data.json</guid>
+      <description>Lecture notes on the support vector machine, classification errors, regularization, logistic regression.</description>
+    </item>
+    
+    <item>
+      <title>lec5.pdf</title>
+      <link>/resources/lec5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec5/data.json</guid>
+      <description>Lecture notes on linear regression, estimator bias and variance, and active learning.</description>
+    </item>
+    
+    <item>
+      <title>lec6.pdf</title>
+      <link>/resources/lec6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec6/data.json</guid>
+      <description>Lecture notes on active learning, non-linear predictions, and kernals.</description>
+    </item>
+    
+    <item>
+      <title>lec7.pdf</title>
+      <link>/resources/lec7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec7/data.json</guid>
+      <description>Lecture notes on the kernel form of linear regression, kernels, examples, construction, and properties.</description>
+    </item>
+    
+    <item>
+      <title>lec8.pdf</title>
+      <link>/resources/lec8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec8/data.json</guid>
+      <description>Lecture notes on support vector machine (SVM), kernels, and kernel optimization.</description>
+    </item>
+    
+    <item>
+      <title>lec9.pdf</title>
+      <link>/resources/lec9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec9/data.json</guid>
+      <description>Lecture notes on kernel optimization and model selection.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>LEC # TOPICS 1 Introduction, linear classification, perceptron update rule (PDF) 2 Perceptron convergence, generalization (PDF) 3 Maximum margin classification (PDF) 4 Classification errors, regularization, logistic regression (PDF) 5 Linear regression, estimator bias and variance, active learning (PDF) 6 Active learning (cont.), non-linear predictions, kernals (PDF) 7 Kernal regression, kernels (PDF) 8 Support vector machine (SVM) and kernels, kernel optimization (PDF) 9 Model selection (PDF) 10 Model selection criteria (PDF) 11 Description length, feature selection (PDF) 12 Combining classifiers, boosting (PDF) 13 Boosting, margin, and complexity (PDF) 14 Margin and generalization, mixture models (PDF) 15 Mixtures and the expectation maximization (EM) algorithm (PDF) 16 EM, regularization, clustering (PDF) 17 Clustering (PDF) 18 Spectral clustering, Markov models (PDF) 19 Hidden Markov models (HMMs) (PDF) 20 HMMs (cont.</description>
+    </item>
+    
+  </channel>
+</rss>
